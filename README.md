@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelilah Benchioui</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abenchioui&label=Profile%20views&color=0e75b6&style=flat" alt="abenchioui" /> </p>
 
 - 🌱 I’m currently learning **ALX programme**
