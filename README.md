@@ -35,6 +35,11 @@
 <p>Here are some statistics about my GitHub activity:</p>
 <table>
   <tr>
+    <th>Top languages</th>
+    <th>GitHub stats</th>
+    <th>GitHub streak stats</th>
+  </tr>
+  <tr>
     <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abenchioui&show_icons=true&locale=en&layout=compact" alt="Top languages used by abenchioui" /></td>
     <td>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abenchioui&show_icons=true&locale=en" alt="GitHub stats for abenchioui" /></td>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abenchioui&" alt="GitHub streak stats for abenchioui" /></td>
