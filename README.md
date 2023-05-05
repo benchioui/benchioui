@@ -29,8 +29,7 @@
 
 <h3 align="left">Support:</h3>
 <p>If you find my work helpful, you can support me by buying me a coffee:</p>
-<p><a href="https://www.buymeacoffee.com/abenchioui"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a></p><br><br>
-<p>Here are some statistics about my GitHub activity:</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abenchioui&show_icons=true&locale=en&layout=compact" alt="Top languages used by abenchioui" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abenchioui&show_icons=true&locale=en" alt="GitHub stats for abenchioui" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abenchioui&" alt="GitHub streak stats for abenchioui" /></p>
+<p><a href="https://www.buymeacoffee.com/abenchioui"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abenchioui" /></a></p><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abenchioui&show_icons=true&locale=en&layout=compact" alt="abenchioui" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abenchioui&show_icons=true&locale=en" alt="abenchioui" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abenchioui&" alt="abenchioui" /></p>
