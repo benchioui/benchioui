@@ -1,6 +1,5 @@
 ![logo](https://github.com/Abenchioui/Abenchioui/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Abdelilah Benchioui</h1>
-<h3 align="center">A passionate developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abenchioui&label=Profile%20views&color=0e75b6&style=flat" alt="abenchioui" /> </p>
 
