@@ -1,7 +1,7 @@
-![logo](https://github.com/Abenchioui/Abenchioui/blob/main/banner.png)
+![logo](https://github.com/benchioui/benchioui/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Abdelilah Benchioui</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abenchioui&label=Profile%20views&color=0e75b6&style=flat" alt="abenchioui" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=benchioui&label=Profile%20views&color=0e75b6&style=flat" alt="benchioui" /> </p>
 
 - 🌱 I am currently in the process of creating my automated trading project
 
