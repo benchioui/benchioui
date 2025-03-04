@@ -15,9 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/abdelbenchioui" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/X_logo_2023_original.svg" alt="abdelbenchioui" height="30" width="40" />
-  </a>
+<a href="https://x.com/abdelbenchioui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdelbenchioui" height="30" width="40" />
 <a href="https://linkedin.com/in/abdelilah-benchioui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelilah-benchioui-18a453228" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17303807/abdelilah-benchioui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdelilah-benchioui" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discordapp.com/users/797516385504460820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/797516385504460820" height="30" width="40" /></a>
