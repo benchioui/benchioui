@@ -10,7 +10,7 @@
 
 ---
 
-# 👋 Hello World! I'm Abdelilah — A Moroccan Developer
+# 👋 - Hi visitor, I'm Abdelilah Benchioui !
 
 - 👨🏼‍💻 Currently building my own [Algo Trading Bot](https://t.me/AbbncFreqtradeBot)
 - 👨🏼‍🎓 Graduated in Information Technology from [OFPPT NTIC 1](https://www.linkedin.com/company/istantic-cfmoti/?originalSubdomain=ma)
